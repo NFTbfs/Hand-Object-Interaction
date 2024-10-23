@@ -9,8 +9,6 @@ For a brief overview, check out the project [webpage](https://hgaurav2k.github.i
 <img src='imgs/approach.png'>
 
 
-For any questions, please contact [Himanshu Gaurav Singh](https://hgaurav2k.github.io/).
-
 
 ## Setup
 
